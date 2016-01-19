@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 103908305
+CRC: 255546865
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9fc66d3fd3d10a754e5f5a36827b7d48
+    Hash: 6ce9ece65c7836e42dd3420d6f4a6d7a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 234d185ef25e4659214c411635d4afe0
+    Hash: c8ada6f7bbd749c2a29fd93b4dc63f4d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,6 +25,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
 Assets:
+- Assets/AssetBundleTest/Capsule.prefab
+- Assets/AssetBundleTest/Sphere.prefab
 - Assets/AssetBundleTest/Cube.prefab
 Dependencies: []
